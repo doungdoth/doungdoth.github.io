@@ -1,4 +1,5 @@
-## Only welcomed guests may continue
+## *Only welcomed guests may continue...
+If you are here, you are a member of of Abuntos...
 
 You can use the [editor on GitHub](https://github.com/doungdoth/doungdoth.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
