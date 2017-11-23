@@ -1,4 +1,4 @@
-## *Only welcomed guests may continue...                                                              Members of of AbantOS
+## *Only welcomed guests may continue...                                                              Members of of AbantOS welcome
 Collaborative 2461-70/2482-40 Fall 2017 Final Project
 Back Story: Build Your Own Linux
 
