@@ -1,12 +1,15 @@
 # Welcome Members of AbantOS Linux! 
 
+
+
+
+
 #### Here is some information regarding the process of how to boot an external flash drive USB and troubleshooting
 
+
+
+
 ## Elive Elightment - User Reference Guide-Booting 
-
-
-
-
 
 
 
@@ -20,6 +23,8 @@
 #### When the boot menu key appears, highlight the USB drive option and press Enter.
     
 #### After Elive initiates, the first Elive menu asking the method of installation will appear. For running Elive from the USB, select Live sessions with Persistence. This method will allow you to run Elive direct from the USB without installing the system on your separate hardware, and Persistence will save your configurations of Elive from session to session.
+
+
 
 
 ## USB Booting Issues?
@@ -48,13 +53,22 @@
 
 
 
+
 # APPLE MAC USER?
+
+
 
 #### If you are using an iOS - Apple Mac, and is still having some issues geting your external flashdrive USB to work, try these things?
 
+
+
 #### If your external flash drive USB contains a usable operating system or an OS X installer, you can select it at boot time using OS X’S built-in feature called   Startup Manager,  which can be invoked via a simple keystroke.
 
+
+
 #### Power on your Mac by pressing the power button  or restart it if it’s already on.
+
+
 
 #### Press and hold the Option (⌥) key immediately when you heari the startup chime. Release the key after Startup Manager appears. Startup Manager will scan and list connected drives and volumes that can be booted from.
 
@@ -62,9 +76,14 @@
 #### Select the volume you want to use by using the mouse or left and right arrow keys on the keyboard.
 
 
+
 ####  Double-click or press the Return key to boot your Mac from the selected volume.
 
+
+
 #### You should now be able to boot from external an external flash dribe USB
+
+
 
 
 
