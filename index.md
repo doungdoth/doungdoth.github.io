@@ -1,4 +1,4 @@
-# Welcome to Doung Doth's site ! 
+# Welcome to Doung Doth's page 
 
 ##  Member of - AbantOS Linux! 
 
@@ -66,7 +66,7 @@
 #### Here are a few links to help you out. One is a website that explains step by step on how to get it to work. The other, is a video on YouTube if you'd rather watch.
 
 
-#### * If you are still having issues, try searching the make and model of your computer and possibley operating system and search USB booting
+#### * If you are still having issues, try searching the make and model of your computer and possibly operating system and search USB booting
 
 
 #### https://www.pcworld.com/article/3057176/hardware/the-hidden-challenges-of-booting-from-a-usb-flash-drive.html
