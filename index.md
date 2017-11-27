@@ -34,7 +34,7 @@
 
 #### After you install what ever that it is you want on your external flash drive USB you may find out that you are finding some trouble getting it to work. Now there are some ways to go about this. 
 
-,
+
 #### Usually something needs to be configured in the BIOS of your computer. That means tweaking a few settings to allow the external flash drive USB to be recognized and run. Once this is complete, your external hardrive USB device should now be able to run and work.
 
 
