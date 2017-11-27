@@ -2,7 +2,7 @@
 
 
 
-# Elive Elightment - User Reference Guide-Booting
+# Elive Elightment - User Reference Guide-Booting 
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-## Booting via External hardrive: USB Flash Drive
+## Booting via External hardrive: USB Flash Drive(Windows)
 
 
 #### Power on your computer with the USB with Elive written to it plugged in. When the initial boot screen of your computer appears, hold down the Boot Menu key to load the boot menu. On many computers this is the F12 key, or one of the other F row keys. A list of common boot menu keys for various manufacturers can be found at
@@ -27,10 +27,10 @@
 
 #### Did you have an issue come up when your PC did not want to boot external flash drive USB even after going to Bios and selecting appropriate device? Did an Error message popped up saying something along the lines of "device is broken"? So what do you do?
 
-#### After you install what ever that it is you want on your external device ( in this case USB specifically), you may find out that you are finding some trouble getting it to work. Now there are some ways to go about this. 
+#### After you install what ever that it is you want on your external flash drive USB you may find out that you are finding some trouble getting it to work. Now there are some ways to go about this. 
 
-
-#### Usually something needs to be configured in the BIOS of your computer. That means tweaking a few settings to allow the USB to be recognized and run. Once you do this, your external hardrive USB device should now be able to run and work.
+,
+#### Usually something needs to be configured in the BIOS of your computer. That means tweaking a few settings to allow the external flash drive USB to be recognized and run. Once this is complete, your external hardrive USB device should now be able to run and work.
 
 
 
@@ -41,5 +41,13 @@
 #### https://www.pcworld.com/article/3057176/hardware/the-hidden-challenges-of-booting-from-a-usb-flash-drive.html
 
 #### https://www.youtube.com/watch?v=V95s-vxZL3k
+
+
+
+
+
+# APPLE MAC USER?
+
+### If you are using an iOS - Apple Mac, and is still having some issues geting your external flashdrive USB to work, try these things?
 
 
