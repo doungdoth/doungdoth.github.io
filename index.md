@@ -8,6 +8,8 @@
 
 
 
+
+
 ## Booting via External hardrive: USB Flash Drive
 
 
@@ -19,6 +21,7 @@
     
 #### After Elive initiates, the first Elive menu asking the method of installation will appear. For running Elive from the USB, select Live sessions with Persistence. This method will allow you to run Elive direct from the USB without installing the system on your separate hardware, and Persistence will save your configurations of Elive from session to session.
 
+
 ## USB Booting Issues?
 
 
@@ -27,16 +30,8 @@
 #### After you install what ever that it is you want on your external device ( in this case USB specifically), you may find out that you are finding some trouble getting it to work. Now there are some ways to go about this. 
 
 
+#### Usually something needs to be configured in the BIOS of your computer. That means tweaking a few settings to allow the USB to be recognized and run. Once you do this, your external hardrive USB device should now be able to run and work.
 
-## How to boot the USB once installed. 
-
-#### Usually something needs to be configured in the BIOS of your computer. That means tweaking a few settings to allow the USB to recognized and run. Once you do this, your USB device should now be able to run and work.
-
-
-
-## What is BIOS?
-
-#### Basic Input Output System referred to as BIOS, is software stored on a small memory chip on the motherboard. It give the computer a set of instructions on how to perform some of the basic functions such as booting and keyboard control as well asconfigure the hardware in a computer including the hard drive, floppy drive, USB, optical drive, CPU, memory to list a few.
 
 
 
