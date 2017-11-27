@@ -33,7 +33,7 @@
 ## USB Booting Issues?
 
 
-#### Did you have an issue come up when your PC did not want to boot external flash drive USB even after going to Bios and selecting appropriate device? Did an Error message popped up saying something along the lines of "device is broken"? So what do you do?
+#### Did you have an issue come up when your PC did not want to boot external flash drive USB even after going to Bios and selecting appropriate device? Did an Error message popped up saying something along the lines of "device is not found"? So what do you do?
 
 #### After you install what ever that it is you want on your external flash drive USB you may find out that you are finding some trouble getting it to work. Now there are some ways to go about this. 
 
