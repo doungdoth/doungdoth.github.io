@@ -10,10 +10,11 @@
 
 ## Booting via External hardrive: USB Flash Drive
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Power on your computer with the USB with Elive written to it plugged in. When the initial boot screen of your computer appears, hold down the Boot Menu key to load the boot menu. On many computers this is the F12 key, or one of the other F row keys. A list of common boot menu keys for various manufacturers can be found at http://www.elivecd.org/ufaqs/how-to-tell-the-computer-to-boot-from-another-device/.
 
-```markdown
-Syntax highlighted code block
+
+### When the boot menu key appears, highlight the USB drive option and press Enter. After Elive initiates, the first Elive menu asking the method of installation will appear. For running Elive from the USB, select Live sessions with Persistence. This method will allow you to run Elive direct from the USB without installing the system on your separate hardware, and Persistence will save your configurations of Elive from session to session.
+
 
 # Header 1
 ## Header 2
