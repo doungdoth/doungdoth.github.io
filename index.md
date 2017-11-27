@@ -2,7 +2,7 @@
 
 #### Here is some information regarding booting an external flash drive USB and troubleshooting
 
-# Elive Elightment - User Reference Guide-Booting 
+## Elive Elightment - User Reference Guide-Booting 
 
 
 
