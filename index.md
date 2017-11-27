@@ -1,7 +1,6 @@
-# Welcome! 
+# Welcome to Doung Doth's site ! 
 
-
-## THis site was made by Members of - AbantOS Linux! 
+##  Member of - AbantOS Linux! 
 
 
 
