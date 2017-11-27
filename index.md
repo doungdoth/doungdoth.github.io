@@ -1,6 +1,6 @@
 # Welcome Members of AbantOS Linux! 
 
-#### Here is some information regarding booting an external flash drive USB and troubleshooting
+#### Here is some information regarding the process of how to boot an external flash drive USB and troubleshooting
 
 ## Elive Elightment - User Reference Guide-Booting 
 
