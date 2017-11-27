@@ -80,7 +80,7 @@
 
 # APPLE iOS MAC USER?
 
-## If you are using an iOS - Apple Mac, and is having some issues geting your external flashdrive USB to work, try these things.
+#### If you are using an iOS - Apple Mac, and is having some issues geting your external flashdrive USB to work, try these things.
 
 
 
