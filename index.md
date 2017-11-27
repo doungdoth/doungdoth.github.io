@@ -4,7 +4,7 @@
 
 
 
-#### Here is some information regarding the process of how to boot an external flash drive USB and troubleshooting
+#### Here is some information regarding the process on how to boot an external flash drive USB and troubleshootinn
 
 
 
