@@ -36,13 +36,15 @@
 
 ## What is BIOS?
 
-## Basic Input Output System referred to as BIOS, is software stored on a small memory chip on the motherboardIt give the computer a set of instructions on how to perform some of the basic functions such as booting and keyboard control as well asconfigure the hardware in a computer including the hard drive, floppy drive, USB, optical drive, CPU, memory to list a few.
+## Basic Input Output System referred to as BIOS, is software stored on a small memory chip on the motherboard. It give the computer a set of instructions on how to perform some of the basic functions such as booting and keyboard control as well asconfigure the hardware in a computer including the hard drive, floppy drive, USB, optical drive, CPU, memory to list a few.
 
 
 
 ## Here are a few links to help you out. One is a website that explains step by step on how to get it to work. The other is a video on youtube if you'd rather watch. 
 
-## https://www.youtube.com/watch?v=V95s-vxZL3k
+
 ## https://www.pcworld.com/article/3057176/hardware/the-hidden-challenges-of-booting-from-a-usb-flash-drive.html
+
+## https://www.youtube.com/watch?v=V95s-vxZL3k
 
 
