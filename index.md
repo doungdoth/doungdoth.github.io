@@ -48,6 +48,24 @@
 
 # APPLE MAC USER?
 
-### If you are using an iOS - Apple Mac, and is still having some issues geting your external flashdrive USB to work, try these things?
+#### If you are using an iOS - Apple Mac, and is still having some issues geting your external flashdrive USB to work, try these things?
+f your USB thumb drive, USB-based external disk or flash storage contains a usable operating system or an OS X installer, you can select it at boot time using OS X’S built-in feature called Startup Manager, which can be invoked via a simple keystroke.
 
+#### Power on your Mac by pressing the power button  or restart it if it’s already on.
+
+#### Press and hold the Option (⌥) key immediately when you heari the startup chime. Release the key after Startup Manager appears. Startup Manager will scan and list connected drives and volumes that can be booted from.
+
+
+#### Select the volume you want to use by using the mouse or left and right arrow keys on the keyboard.
+
+
+####  Double-click or press the Return key to boot your Mac from the selected volume.
+
+#### You should now be able to boot from external an external flash dribe USB
+
+#### Tip: If there are several USB storage devices connected to your Mac, Startup Manager will only list the ones containing bootable volumes.
+
+
+
+#### http://www.idownloadblog.com/2015/09/14/how-to-start-up-mac-from-bootable-media/
 
