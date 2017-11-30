@@ -3,31 +3,7 @@
 ##  Member of - AbantOS Linux! 
 
 
-
-### Elive Enlightenment - User Reference Guide - Booting
-
-#### Here is some information regarding the process on how to boot an external flash drive USB and troubleshooting
-
-## Booting via External hardrive: USB Flash Drive(Windows)
-
-#### Power on your computer with the USB with Elive written to it plugged in. 
-
-
-#### When the initial boot screen of your computer appears, hold down the Boot Menu key to load the boot menu. On many computers this is the F12 key, or one of the other F row keys. 
-
-#### A list of common boot menu keys for various manufacturers can be found at
-#### http://www.elivecd.org/ufaqs/how-to-tell-the-computer-to-boot-from-another-device/.
-
-#### When the boot menu key appears, highlight the USB drive option and press Enter.
-
-
-#### After Elive initiates, the first Elive menu asking the method of installation will appear. For running Elive from the USB, select Live sessions with Persistence. 
-
-
-#### This method will allow you to run Elive direct from the USB without installing the system on your separate hardware, and Persistence will save your configurations of Elive from session to session.
-
-
-
+ ### Elive Enlightenment - User Reference Guide - Booting
 
 
 
@@ -67,13 +43,6 @@
 
 
 #### * If you are still having issues, try searching the make and model of your computer and possibly operating system and search USB booting
-
-
-#### https://www.pcworld.com/article/3057176/hardware/the-hidden-challenges-of-booting-from-a-usb-flash-drive.html
-
-
-
-#### https://www.youtube.com/watch?v=V95s-vxZL3k
 
 
 
@@ -120,6 +89,4 @@
 
 #### *Note: If there are several USB storage devices connected to your Mac, Startup Manager will only list the ones containing bootable volumes.
 
-
-#### http://www.idownloadblog.com/2015/09/14/how-to-start-up-mac-from-bootable-media/
 
